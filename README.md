@@ -1,2 +1,2 @@
 # spldv
-Sistem Persamaan Linear Dua Variabel
+Sistem Persamaan Linear 2 Variabel
